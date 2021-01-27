@@ -1,0 +1,6 @@
+/.logs
+/build
+/document
+/mpesa_logs
+/node_modules
+result.pdf
